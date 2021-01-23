@@ -22,4 +22,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelevans&layout=compact&theme=dracula)
 
 ## Find me on :earth_africa::
-- LinkedIn: [Evans Ochola](www.linkedin.com/in/evansochieng)
+- LinkedIn: [Evans Ochola](https://www.linkedin.com/in/evans-o-52024a104/)
