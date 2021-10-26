@@ -19,7 +19,7 @@
 ![Evans' Github Stats](https://github-readme-stats.vercel.app/api?username=Joelevans&show_icons=true&theme=cobalt)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelevans&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
 
 ## Find me on :earth_africa::
 - LinkedIn: [Evans Ochola](https://www.linkedin.com/in/ocholaevans/)
