@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Joelevans/Joelevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,18 @@
 ### Github Stats
 ![Evans' Github Stats](https://github-readme-stats.vercel.app/api?username=Joelevans&show_icons=true&theme=cobalt)
 -->
+
+<p align="center">
+    <b>Hi there!</b><br><br>
+    <i>
+        I'm Evans Ochola<br>
+        Data Scientist<br>
+        Currently undertaking a Master's Degree in Data Science at University of Surrey, UK.<br>
+        Available <br>
+    </i>
+    </i><br>
+
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
 
