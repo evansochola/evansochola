@@ -23,9 +23,9 @@
         I'm Evans Ochola<br>
         Data Scientist<br>
         Postgrad in Data Science at University of Surrey, UK.<br>
-        
     </i>
-    </i><br>
+    <br>
+    
 
 </p>
 
