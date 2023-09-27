@@ -24,10 +24,8 @@
         Data Scientist<br>
         Postgrad in Data Science at University of Surrey, UK.<br>
     </i>
-    <br>
-    
-
 </p>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
 
