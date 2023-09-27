@@ -22,8 +22,8 @@
     <i>
         I'm Evans Ochola<br>
         Data Scientist<br>
-        Master's Degree in Data Science at University of Surrey, UK.<br>
-        Currently Available <br>
+        Postgrad in Data Science at University of Surrey, UK.<br>
+        
     </i>
     </i><br>
 
