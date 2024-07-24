@@ -30,7 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
 
 #### Find me on :earth_africa::
-- LinkedIn: [Evans Ochola](https://www.linkedin.com/in/ocholaevans/)
+- LinkedIn: [Evans Ochieng](https://www.linkedin.com/in/ocholaevans/)
 
 #### Here's a game I made in Scratch :)
 - [Free Throw](https://scratch.mit.edu/projects/488217340)
