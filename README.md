@@ -20,7 +20,7 @@
 <p align="center">
     <b>Hi there!</b><br><br>
     <i>
-        I'm Evans Ochola<br>
+        I'm Evans Ochieng<br>
         Data Scientist<br>
         Postgrad in Data Science at University of Surrey, UK.<br>
     </i>
