@@ -26,10 +26,12 @@
     </i>
 </p>
 <br>
-- 🔭 I’m currently working on ensuring that datasets and their metadata are captured in an unambiguous manner to support research hypothesis generation.  
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
+
+- 🔭 I’m currently working on ensuring that datasets and their metadata are captured in an unambiguous manner to support research hypothesis generation and data analysis.  
 
 #### Find me on :earth_africa::
 - LinkedIn: [Evans Ochieng](https://www.linkedin.com/in/ocholaevans/)
