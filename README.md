@@ -17,21 +17,7 @@
 ![Evans' Github Stats](https://github-readme-stats.vercel.app/api?username=Joelevans&show_icons=true&theme=cobalt)
 -->
 
-<p align="center">
-    <b>Hi there!</b><br><br>
-    <i>
-        I'm Evans Ochieng<br>
-        Data Scientist<br>
-        Postgrad in Data Science at University of Surrey, UK.<br>
-    </i>
-</p>
-<br>
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evansochola&layout=compact&theme=dracula)
-
-- 🔭 I’m currently working on ensuring that datasets and their metadata are captured in an unambiguous manner to support research hypothesis generation and data analysis.  
+ 
 
 #### Find me on :earth_africa::
 - LinkedIn: [Evans Ochieng](https://www.linkedin.com/in/ocholaevans/)
